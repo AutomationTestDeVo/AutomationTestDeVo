@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Selenium-Webdriver, Playwright**
 
-- 📫 How to reach me **paulmanash29@gmail.com**
+- 📫 You can reach me **paulmanash29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
